@@ -1,5 +1,6 @@
 .parent{
     position: relative;
+    cursor: pointer;
 }
 
 .above-fold{
