@@ -1,1 +1,1 @@
-# Link demo: https://vincentprogrammer.github.io/happy-birthday-demo/
+Demo: https://dungken.github.io/happy-birthday-demo/
